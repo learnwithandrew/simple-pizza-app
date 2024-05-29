@@ -6,10 +6,10 @@ function AddPizzaForm() {
     <div className="pizzaForm-container">
       <form>
         <input type="text" placeholder="Enter pizza name" />
-        <select id="fruits" name="fruits">
-          <option value="apple">Small</option>
-          <option value="banana">Medium</option>
-          <option value="cherry">Large</option>
+        <select id="pizzaSize" name="pizzaSize">
+          <option value="small">Small</option>
+          <option value="medium">Medium</option>
+          <option value="large">Large</option>
         </select>
         <div class="form-check">
           <input
