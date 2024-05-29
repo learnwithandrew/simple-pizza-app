@@ -19,6 +19,22 @@ function PizzaTable() {
             <button className="btn btn-secondary edit-button">Edit</button>
           </td>
         </tr>
+        <tr>
+          <td>Plain pizza</td>
+          <td>small</td>
+          <td>Yes</td>
+          <td>
+            <button className="btn btn-secondary edit-button">Edit</button>
+          </td>
+        </tr>
+        <tr>
+          <td>Plain pizza</td>
+          <td>small</td>
+          <td>Yes</td>
+          <td>
+            <button className="btn btn-secondary edit-button">Edit</button>
+          </td>
+        </tr>
       </table>
     </div>
   );
