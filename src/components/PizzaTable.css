@@ -1,0 +1,21 @@
+.pizzaTable-container {
+    border: 1px solid red;
+    width: 100%;
+}
+
+.pizzaTable-container table {
+    width: 70%;
+    border: 1px solid green;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+table .edit-button {
+    width: 100px;
+    padding: 5px;
+}
+
+table td,
+th {
+    text-align: center;
+}

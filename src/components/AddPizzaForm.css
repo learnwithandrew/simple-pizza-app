@@ -16,6 +16,7 @@
 form input[type="text"] {
     padding-left: 10px;
     padding: 5px;
+    width: 450px;
 }
 
 form input[type="submit"] {
