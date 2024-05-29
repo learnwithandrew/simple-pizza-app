@@ -18,6 +18,7 @@ function AddPizzaForm() {
             name="isVegetarian"
             value="vegetarian"
           />
+          &nbsp;
           <label for="vegetarian">Vegetarian</label>
           <br />
           <input
@@ -26,6 +27,7 @@ function AddPizzaForm() {
             name="isVegetarian"
             value="non-vegetarian"
           />
+          &nbsp;
           <label for="non-vegetarian">Non Vegetarian</label>
         </div>
         <input type="submit" value="Submit" />
